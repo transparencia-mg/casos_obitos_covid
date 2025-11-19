@@ -3,8 +3,6 @@ owner_org: secretaria-de-estado-de-saude-ses
 profile: data-package
 resources:
   - description: Conjunto de dados de casos e óbitos de COVID-19, consolidados por ano.
-
-Novo Dicionário de Dados disponível aqui..
     dialect:
       delimiter: ;
     encoding: utf-8-sig
