@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 29.377,
+  "time": 27.675,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Conjunto de dados de casos e óbitos de COVID-19, consolidados por ano.",
         "dialect": {
           "delimiter": ";"
         },
@@ -112,7 +112,7 @@
           "rows": 464791
         }
       },
-      "time": 29.36,
+      "time": 27.66,
       "scope": [
         "hash-count-error",
         "byte-count-error",
