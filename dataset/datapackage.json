@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "Conjunto de dados de casos e óbitos de COVID-19, consolidados por ano.",
       "dialect": {
         "delimiter": ";"
       },
